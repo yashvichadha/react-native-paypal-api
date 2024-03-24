@@ -1,0 +1,1 @@
+{"version":3,"names":["_PaypalProvider","require","_usePaypal","_interopRequireDefault","obj","__esModule","default"],"sourceRoot":"../../src","sources":["index.ts"],"mappings":";;;;;;;;;;;;;;;;;AAAA,IAAAA,eAAA,GAAAC,OAAA;AACA,IAAAC,UAAA,GAAAC,sBAAA,CAAAF,OAAA;AAA0C,SAAAE,uBAAAC,GAAA,WAAAA,GAAA,IAAAA,GAAA,CAAAC,UAAA,GAAAD,GAAA,KAAAE,OAAA,EAAAF,GAAA","ignoreList":[]}

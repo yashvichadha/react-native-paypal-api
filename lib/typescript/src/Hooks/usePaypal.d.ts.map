@@ -1,0 +1,1 @@
+{"version":3,"file":"usePaypal.d.ts","sourceRoot":"","sources":["../../../../src/Hooks/usePaypal.tsx"],"names":[],"mappings":"AAGA,OAAO,KAAK,EACV,qBAAqB,EACrB,oBAAoB,EACpB,mBAAmB,EACnB,SAAS,EACT,WAAW,EACX,cAAc,EACf,MAAM,SAAS,CAAC;AAEjB,QAAA,MAAM,SAAS,UAAW,cAAc;;;4BAmDX,SAAS,WAAW,WAAW;gCAmB3B,WAAW,YAAY,MAAM;;CAuB7D,CAAC;AAEF,eAAe,SAAS,CAAC"}
